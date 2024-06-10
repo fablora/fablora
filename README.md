@@ -1,6 +1,6 @@
 ### Hey, I'm Fabian 👋
 
-Developer with experience in automation and data-driven solutions.
+Developer with experience in business process automation and data-driven solutions.
 
 🛠️ **Tech Stack**
 - 📜 Languages: &nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-black?logo=python)  ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)  ![C#](https://img.shields.io/badge/C%23-black?logo=C%23&logoColor=%230C5014) ![Html](https://img.shields.io/badge/HTML-black?logo=html5)
